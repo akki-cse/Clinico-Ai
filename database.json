@@ -1,0 +1,131 @@
+{
+    "ABHA-9821-4432-1092": {
+        "abha_id": "ABHA-9821-4432-1092",
+        "name": "Gurpreet Singh",
+        "age_gender": "42, Male",
+        "blood_group": "B+",
+        "raw_intake": "I have a mild fever",
+        "dashavidha": {
+            "Prakriti (Constitutional Type)": "Pitta-Vata Predominant",
+            "Agni (Digestive / Metabolic Fire)": "Mandagni (Diminished)",
+            "Dushya (Affected Tissues)": "Rasa & Rakta",
+            "Bala (Systemic Vitality)": "Madhyama (Moderate)"
+        },
+        "allopathic": {
+            "Chief Complaint": "High grade fever with retrosternal chest tightness",
+            "Duration": "3 Days",
+            "Severity Index": "Moderate - High",
+            "Suspected Triage Category": "Acute Febrile Illness / Respiratory Assessment Required"
+        },
+        "prescription": [
+            {
+                "medicine": "Paracetamol + Azithromycin",
+                "dosage": "650mg / 500mg",
+                "timing": "08:00 AM & 08:00 PM",
+                "instructions": "Take after meals with warm water. Rest for 48 hours."
+            }
+        ]
+    },
+    "patients": [
+        {
+            "id": "ABHA-8988-1649",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "Patient reports severe stomach pain and acidity after eating.",
+            "specialty": "Gastroenterologist",
+            "allopathic_notes": "Diagnosis: Suspected Acid Peptic Disease / Gastritis. Recommended: Endoscopy & Antacids.",
+            "ayush_notes": "Dashavidha Pariksha: Pitta Dosha Aggravation, Amlapitta (Hyperacidity).",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "surgery",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:10:07"
+        },
+        {
+            "id": "ABHA-6672-1314",
+            "name": "Aditya",
+            "age": 32,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i am facing pimples at random places\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "lacto calamine",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:18:33"
+        },
+        {
+            "id": "ABHA-7901-5171",
+            "name": "rohan",
+            "age": 21,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "mujhe mere sir mai bohot dard hai\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "do something bro\n",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:25:49"
+        },
+        {
+            "id": "ABHA-8331-6916",
+            "name": "Akshit",
+            "age": 20,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i have headache and sharp pain in my chest left side",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "Pending Doctor Review",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 15:38:33"
+        },
+        {
+            "id": "ABHA-5672-4541",
+            "name": "Shivam",
+            "age": 14,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i have sharp chest pain\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise. Recommended: Basic Vitals Check.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "Xray and MRI",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 16:02:52"
+        }
+    ],
+    "complaints": [
+        {
+            "ticket": "CMO-TICKET-79947",
+            "department": "General Administration",
+            "issue": "Diagnostic Overcharging",
+            "description": "I had only some  minor pain but he asked for xray and MRi ",
+            "status": "Under Investigation (SLA: 24h)",
+            "timestamp": "2026-09-18 16:05:15"
+        }
+    ]
+}
