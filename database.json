@@ -41,9 +41,10 @@
                 "Ayushman Bharat PM-JAY",
                 "State Health Subsidy"
             ],
-            "prescription": "surgery",
+            "prescription": "HIV",
             "status": "Waiting Room",
-            "timestamp": "2026-09-18 15:10:07"
+            "timestamp": "2026-09-18 15:10:07",
+            "prescribed_test": "Other (Specify in Notes)"
         },
         {
             "id": "ABHA-6672-1314",
@@ -116,6 +117,175 @@
             "prescription": "Xray and MRI",
             "status": "Waiting Room",
             "timestamp": "2026-09-18 16:02:52"
+        },
+        {
+            "id": "ABHA-2265-8572",
+            "name": "Akshir",
+            "age": 31,
+            "gender": "Unknown",
+            "location": "Punjab, India",
+            "symptoms": "i have a fever\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: Viral Pyrexia / Upper Respiratory Infection. Recommended: CBC Test.",
+            "ayush_notes": "Dashavidha Pariksha: Kapha-Vata Imbalance (Jwara).",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescription": "Pending Doctor Review",
+            "status": "Waiting Room",
+            "timestamp": "2026-09-18 16:38:30"
+        },
+        {
+            "id": "ABHA-9873-8487",
+            "name": "udhave",
+            "age": 36,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "i have heart blockage",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: General Malaise.\nRecommended: Vitals & Basic Blood Panel.",
+            "ayush_notes": "Dashavidha Pariksha: Tridosha Imbalance.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "Comprehensive Health Check / X-Ray",
+            "prescription": "Pending Doctor Review",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 10:50:32"
+        },
+        {
+            "id": "ABHA-2754-7447",
+            "name": "janbi",
+            "age": 27,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "i have fever",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: Viral Pyrexia / Upper Respiratory Infection.\nRecommended: CBC Test.",
+            "ayush_notes": "Dashavidha Pariksha: Kapha-Vata Imbalance (Jwara).",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "Complete Blood Count (CBC) & Dengue Panel",
+            "prescription": "Pending Doctor Review",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 10:54:53"
+        },
+        {
+            "id": "ABHA-1224-9007",
+            "name": "reyna",
+            "age": 34,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "Mujhe pichle ek mahine se ghutno mein bhari dard hai aur chalne mein takleef hoti hai.",
+            "specialty": "Orthopedic Surgeon",
+            "allopathic_notes": "Diagnosis: Suspected Gonarthralgia / Osteoarthritis.\nRecommended: Knee MRI & X-Ray.",
+            "ayush_notes": "Dashavidha Pariksha: Vata Dosha Aggravation (Sandhi Vata).\nRecommended: Janu Basti.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "MRI Scan (Joint / Spine)",
+            "prescription": "Pending Doctor Review",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 10:57:22"
+        },
+        {
+            "id": "ABHA-4727-8401",
+            "name": "gexko",
+            "age": 27,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "Mujhe pichle ek mahine se ghutno mein bhari dard hai aur chalne mein takleef hoti hai.",
+            "specialty": "Orthopedic Surgeon",
+            "allopathic_notes": "Diagnosis: Suspected Gonarthralgia / Osteoarthritis.\nRecommended: Knee MRI & X-Ray.",
+            "ayush_notes": "Dashavidha Pariksha: Vata Dosha Aggravation (Sandhi Vata).\nRecommended: Janu Basti.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "MRI Scan (Joint / Spine)",
+            "prescription": "Pending Doctor Review",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 10:58:07"
+        },
+        {
+            "id": "ABHA-3102-6009",
+            "name": "gexko",
+            "age": 27,
+            "gender": "Male",
+            "location": "Punjab, India",
+            "symptoms": "Mujhe pichle ek mahine se ghutno mein bhari dard hai aur chalne mein takleef hoti hai.",
+            "specialty": "Orthopedic Surgeon",
+            "allopathic_notes": "Diagnosis: Suspected Gonarthralgia / Osteoarthritis.\nRecommended: Knee MRI & X-Ray.",
+            "ayush_notes": "Dashavidha Pariksha: Vata Dosha Aggravation (Sandhi Vata).\nRecommended: Janu Basti.",
+            "eligible_schemes": [
+                "Ayushman Bharat PM-JAY",
+                "State Health Subsidy"
+            ],
+            "prescribed_test": "MRI Scan (Joint / Spine)",
+            "prescription": "Pending Doctor Review",
+            "status": "Checked In",
+            "timestamp": "2026-09-19 10:59:13"
+        },
+        {
+            "id": "OPD-TKN-797",
+            "abha_id": "14-7294-5679",
+            "name": "Khusi",
+            "age": 12,
+            "symptoms": "I have a fever",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: Viral Pyrexia / Upper Respiratory Infection.\nRecommended: CBC Test & Paracetamol.",
+            "ayush_notes": "Dashavidha Pariksha: Kapha-Vata Imbalance (Jwara).\nRecommended: Ayush Kwath.",
+            "prescribed_test": "Complete Blood Count (CBC)",
+            "prescription": "Pending Doctor Review",
+            "status": "In Queue",
+            "timestamp": "2026-09-19 11:42:38"
+        },
+        {
+            "id": "OPD-TKN-719",
+            "abha_id": "14-7294-854",
+            "name": "Subam",
+            "age": 29,
+            "symptoms": "I have fevers",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: Viral Pyrexia / Upper Respiratory Infection.\nRecommended: CBC Test & Paracetamol.",
+            "ayush_notes": "Dashavidha Pariksha: Kapha-Vata Imbalance (Jwara).\nRecommended: Ayush Kwath.",
+            "prescribed_test": "Complete Blood Count (CBC)",
+            "prescription": "PaRAXETAMOL",
+            "status": "In Queue",
+            "timestamp": "2026-09-19 11:44:27"
+        },
+        {
+            "id": "OPD-TKN-254",
+            "abha_id": "14-7294-9999",
+            "name": "Adityaaa",
+            "age": 23,
+            "symptoms": "i have fever",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: Viral Pyrexia / Upper Respiratory Infection.\nRecommended: CBC Test & Paracetamol.",
+            "ayush_notes": "Dashavidha Pariksha: Kapha-Vata Imbalance (Jwara).\nRecommended: Ayush Kwath.",
+            "prescribed_test": "Complete Blood Count (CBC)",
+            "prescription": "Paracetamol ",
+            "status": "In Queue",
+            "timestamp": "2026-09-19 12:01:40"
+        },
+        {
+            "id": "OPD-TKN-565",
+            "abha_id": "14-7294-XXXX-XXXX",
+            "name": "Aarav Sharma",
+            "age": 32,
+            "symptoms": "fever\n",
+            "specialty": "General Physician",
+            "allopathic_notes": "Diagnosis: Viral Pyrexia / Upper Respiratory Infection.\nRecommended: CBC Test & Paracetamol.",
+            "ayush_notes": "Dashavidha Pariksha: Kapha-Vata Imbalance (Jwara).\nRecommended: Ayush Kwath.",
+            "prescribed_test": "Complete Blood Count (CBC)",
+            "prescription": "Pending Doctor Review",
+            "status": "In Queue",
+            "timestamp": "2026-09-19 12:34:46"
         }
     ],
     "complaints": [
@@ -126,6 +296,12 @@
             "description": "I had only some  minor pain but he asked for xray and MRi ",
             "status": "Under Investigation (SLA: 24h)",
             "timestamp": "2026-09-18 16:05:15"
+        },
+        {
+            "ticket": "CMO-TICKET-31936",
+            "department": "Orthopedics OPD",
+            "issue": "Queue Manipulation / VIP Favoritism",
+            "status": "Under Investigation (SLA: 24h)"
         }
     ]
 }
